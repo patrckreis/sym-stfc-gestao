@@ -1,0 +1,30 @@
+.stfc2MainContainer {
+  background-color: #f68f47;
+  display: grid;
+  grid-template-columns: 500px 500px;
+  justify-content: center;
+}
+
+h5 {
+  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+}
+
+.stfc2Cards {
+  border: 3px solid white;
+  border-radius: 15px;
+  height: 300px;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.stfcCardsP {
+  text-align: center;
+}

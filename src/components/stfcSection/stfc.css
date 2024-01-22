@@ -1,0 +1,46 @@
+.stfcMainContainer {
+  /* height: 350px; */
+  background-color: #727376;
+  display: flex;
+  gap: 100px;
+}
+
+h2 {
+  font-size: 60px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: white;
+  text-align: left;
+}
+
+.stfcContainer {
+  margin: 100px 70px;
+  display: flex;
+  gap: 100px;
+}
+
+.imgPerson1Container {
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgPerson1 {
+  width: 400px;
+}
+
+.telefone {
+  width: 400px;
+  margin-bottom: 10px;
+  border: 3px solid white;
+  border-radius: 40px;
+}
