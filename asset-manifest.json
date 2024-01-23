@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.fc494d02.css",
+    "main.js": "/react-gh-pages/static/js/main.0ddfe1f7.js",
+    "static/media/boxicons.svg": "/react-gh-pages/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/fanvil3.png": "/react-gh-pages/static/media/fanvil3.0c2a3b37b21353a548f9.png",
+    "static/media/boxicons.eot": "/react-gh-pages/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/telefone.png": "/react-gh-pages/static/media/telefone.2f8c8f54e50528fee76e.png",
+    "static/media/boxicons.woff": "/react-gh-pages/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/react-gh-pages/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/img1.png": "/react-gh-pages/static/media/img1.04dc886d0ab008f59381.png",
+    "static/media/fanvil2.png": "/react-gh-pages/static/media/fanvil2.8af1281133ec3eb2bf5b.png",
+    "static/media/boxicons.woff2": "/react-gh-pages/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/imgperson1.png": "/react-gh-pages/static/media/imgperson1.4af4c40cef6f72f47b90.png",
+    "static/media/SymSGC.png": "/react-gh-pages/static/media/SymSGC.0deba3026229809f780d.png",
+    "static/media/LogoSym.png": "/react-gh-pages/static/media/LogoSym.12a672ff7ae56213eec1.png",
+    "static/media/oi.png": "/react-gh-pages/static/media/oi.597d49507805f79bbfa2.png",
+    "static/media/fanvil.png": "/react-gh-pages/static/media/fanvil.12b2458b28754c4870a8.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.fc494d02.css.map": "/react-gh-pages/static/css/main.fc494d02.css.map",
+    "main.0ddfe1f7.js.map": "/react-gh-pages/static/js/main.0ddfe1f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc494d02.css",
+    "static/js/main.0ddfe1f7.js"
+  ]
+}
