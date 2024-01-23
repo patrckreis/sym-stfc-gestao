@@ -1,4 +1,3 @@
-// Home.tsx
 import React from "react";
 import { HeaderHome } from "../components/header/headerHome";
 import { BodyHome } from "../components/body/bodyHome";
@@ -7,6 +6,7 @@ import { Stfc } from "../components/stfcSection/stfc";
 import { StfcSubTitle } from "../components/stfcSection/stfcSubTitle";
 import { Stfc2 } from "../components/stfcSection/stfc2";
 import { Stfc3 } from "../components/stfcSection/stfc3";
+import { Floatingbtn } from "../components/floatingbtn/floatingbtn";
 
 export function Home() {
   const scrollToSection = () => {
@@ -22,12 +22,11 @@ export function Home() {
       <HeaderHome scrollToSection={scrollToSection} />
       <BodyHome scrollToSection={scrollToSection} />
       <FooterHome />
-      <div id="stfc-section">
-        <Stfc />
-      </div>
+      <Stfc />
       <StfcSubTitle />
       <Stfc2 />
       <Stfc3 />
+      <Floatingbtn />
     </>
   );
 }

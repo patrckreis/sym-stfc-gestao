@@ -6,19 +6,6 @@
   display: flex;
   gap: 100px;
 }
-h1 {
-  font-size: 70px;
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
-  color: white;
-}
-
-p {
-  font-family: "Lato", sans-serif;
-  font-weight: 300;
-  color: white;
-  font-size: 20px;
-}
 
 .bodyHomeTextContainer {
   width: 700px;
